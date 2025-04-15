@@ -1,0 +1,4 @@
+Degree 1: Underfitting. (high bias)
+Degree 3: Balanced Bias and Variance- Best Tradeoff
+Degree 6:Ok. But starting to overfit
+Degree 10: Overfitting.(High Variance)
